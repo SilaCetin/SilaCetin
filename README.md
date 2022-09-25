@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SilaCetin
+- 👋 Hi, I’m Sıla Çetin
 - 👀 I’m studying at Bilkent University as a CS major, as a freshman 
 - 🌱 I’m currently learning Java
 
