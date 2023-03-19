@@ -1,6 +1,4 @@
-- 👋 Hi, I’m Sıla Çetin
-- 👀 I’m studying at Bilkent University as a CS major, as a freshman 
-- 🌱 I’m currently learning Java
+
 
 <!---
 SilaCetin/SilaCetin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
